@@ -5,3 +5,4 @@ Dicky Resolusi
 -Membuat tampilan Back End website
 -Testing
 -Siap digunakan
+-Membuat website sewa studio dan photographer
