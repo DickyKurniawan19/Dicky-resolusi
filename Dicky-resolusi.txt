@@ -1,0 +1,7 @@
+Dicky Resolusi
+-Membuat website sekolah atau cafe
+-Melakukan perancangan desain sistem website
+-Membuat tampilan Front End website
+-Membuat tampilan Back End website
+-Testing
+-Siap digunakan
